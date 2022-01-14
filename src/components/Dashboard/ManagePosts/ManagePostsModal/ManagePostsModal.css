@@ -1,0 +1,8 @@
+.upload-del{
+  
+  display: none; 
+}
+.uploaded-image:hover  .upload-del{
+    display: block;
+
+}
